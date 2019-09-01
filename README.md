@@ -15,3 +15,4 @@ O Evento que não estiver aqui você pode solicitar a inclusão através de uma 
 | Titulo | Data | Local | Site
 | ------ | ------ | ------ | ------ |
 | TchêLinux | 05/10/2019 | Unipampa | https://bage.tchelinux.org |
+| SAADS| 25 - 27/09/2019 | IFSUL| www2.bage.ifsul.edu.br/saads2019/ |
