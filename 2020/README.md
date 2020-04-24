@@ -1,5 +1,7 @@
 ## Lives Youtube 2020
 
+* **20/05/2020** - [Danielle Monteiro](https://www.linkedin.com/in/danimonteirodba/): Em breve...
+
 * **15/05/2020** - [Vinicius Senger](https://www.linkedin.com/in/viniciussenger/): Em breve...
 
 * **07/05/2020** - [Guilherme Lacerda](https://www.linkedin.com/in/guilhermelacerda/): O que a agilidade me ensinou no desenvolvimento de software
