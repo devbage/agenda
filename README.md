@@ -21,5 +21,5 @@ Se você não encontrou alguma `atividade` relacionada que seja interessante com
 
 ## Atividades
 
-- [2020](2020/agenda.md)
-- [2019](2019/agenda.md)
+- [2020](2020/README.md)
+- [2019](2019/README.md)
