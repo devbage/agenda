@@ -1,18 +1,25 @@
-# agendaEventos
+# devBage/Agenda
 
-Projeto Conterá uma lista de eventos conhecidos que estão sendo compartilhados no nosso grupo no telegram. 
-O Evento que não estiver aqui você pode solicitar a inclusão através de uma Issue com as seguintes informações:
+## Introdução
 
-  - Titulo
-  - Data
-  - Local
-  - Descrição (breve)
-  - Site
+A intenção deste repositório é divulgar agenda de atividades da comunidade e/ou relacionadas, sendo estas as mais diversas tais como:
+- Eventos
+- Encontros
+- Seminários
+- Fórums
+- Congressos
+- Atividades Acadêmicas
+- Lives
+- Webinars
+- Hackathons
+- Dojos
+- Etc
 
+## Como compartilhar atividades na agenda?
 
-# Nossa Agenda até agora!
+Se você não encontrou alguma `atividade` relacionada que seja interessante compartilhar por esse canal, por favor envie um [Pull-Request](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) que teremos o prazer em divulgar. Apenas atente para a estrutura de diretórios abaixo e para a ordem reversa, ou seja, a `atividade` atual estar no topo da lista.
 
-| Titulo | Data | Local | Site
-| ------ | ------ | ------ | ------ |
-| TchêLinux | 05/10/2019 | Unipampa | https://bage.tchelinux.org |
-| SAADS| 25 - 27/09/2019 | IFSUL| www2.bage.ifsul.edu.br/saads2019/ |
+## Atividades
+
+- [2020](2020/agenda.md)
+- [2019](2019/agenda.md)
