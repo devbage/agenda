@@ -1,6 +1,8 @@
 ## Lives Youtube 2020
 
-* **20/05/2020** - [Danielle Monteiro](https://www.linkedin.com/in/danimonteirodba/): Em breve...
+* **29/05/2020** - [Henrique Bastos](https://www.linkedin.com/in/henriquebastos/): Em breve...
+
+* **20/05/2020** - [Danielle Monteiro](https://www.linkedin.com/in/danimonteirodba/): Verdades reveladas sobre MongoDB
 
 * **15/05/2020** - [Vinicius Senger](https://www.linkedin.com/in/viniciussenger/): Em breve...
 
