@@ -4,7 +4,7 @@
 
 * **20/05/2020** - [Danielle Monteiro](https://www.linkedin.com/in/danimonteirodba/): Verdades reveladas sobre MongoDB
 
-* **15/05/2020** - [Vinicius Senger](https://www.linkedin.com/in/viniciussenger/): Em breve...
+* **15/05/2020** - [Vinicius Senger](https://www.linkedin.com/in/viniciussenger/): [Introdução a IoT com AWS](https://www.youtube.com/watch?v=YKkPJ9maIho)
 
 * **07/05/2020** - [Guilherme Lacerda](https://www.linkedin.com/in/guilhermelacerda/): O que a agilidade me ensinou no desenvolvimento de software
 
