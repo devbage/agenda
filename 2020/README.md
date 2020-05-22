@@ -1,12 +1,16 @@
 ## Lives Youtube 2020
 
+* **08/06/2020** - [Karin Keller](https://www.linkedin.com/in/karinkeller/): Em breve...
+
+* **01/06/2020** - [Fernando Ike](https://www.linkedin.com/in/fernandoike/): DevOps é Cultura ou Ferramenta?
+
 * **29/05/2020** - [Henrique Bastos](https://www.linkedin.com/in/henriquebastos/): Em breve...
 
-* **20/05/2020** - [Danielle Monteiro](https://www.linkedin.com/in/danimonteirodba/): Verdades reveladas sobre MongoDB
+* **20/05/2020** - [Danielle Monteiro](https://www.linkedin.com/in/danimonteirodba/): [Verdades reveladas sobre MongoDB](https://www.youtube.com/watch?v=W_JBrDgKBo4)
 
 * **15/05/2020** - [Vinicius Senger](https://www.linkedin.com/in/viniciussenger/): [Introdução a IoT com AWS](https://www.youtube.com/watch?v=YKkPJ9maIho)
 
-* **07/05/2020** - [Guilherme Lacerda](https://www.linkedin.com/in/guilhermelacerda/): O que a agilidade me ensinou no desenvolvimento de software
+* **07/05/2020** - [Guilherme Lacerda](https://www.linkedin.com/in/guilhermelacerda/):  [O que a agilidade me ensinou no desenvolvimento de software](https://www.youtube.com/watch?v=safQ1YOIc8o)
 
 * **01/05/2020** - [Bruno Souza](https://www.linkedin.com/in/brjavaman/): [A Carreira do Desenvolvedor Java](https://www.youtube.com/watch?v=lAVctzQ-XP0)
 
