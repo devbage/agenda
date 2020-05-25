@@ -4,7 +4,7 @@
 
 * **01/06/2020** - [Fernando Ike](https://www.linkedin.com/in/fernandoike/): DevOps é Cultura ou Ferramenta?
 
-* **29/05/2020** - [Henrique Bastos](https://www.linkedin.com/in/henriquebastos/): Em breve...
+* **29/05/2020** - [Henrique Bastos](https://www.linkedin.com/in/henriquebastos/): [Como escapar do Vale das Sombras do Mercado de TI](https://www.youtube.com/watch?v=gyZWSeMnp54)
 
 * **20/05/2020** - [Danielle Monteiro](https://www.linkedin.com/in/danimonteirodba/): [Verdades reveladas sobre MongoDB](https://www.youtube.com/watch?v=W_JBrDgKBo4)
 
