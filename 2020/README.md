@@ -4,7 +4,7 @@
 
 * **08/06/2020** - [Karin Keller](https://www.linkedin.com/in/karinkeller/): Em breve...
 
-* **01/06/2020** - [Fernando Ike](https://www.linkedin.com/in/fernandoike/): [DevOps é Cultura ou Ferramenta?](https://www.youtube.com/watch?v=A2jBiDf7WuQ)
+* **05/06/2020** - [Fernando Ike](https://www.linkedin.com/in/fernandoike/): [DevOps é Cultura ou Ferramenta?](https://www.youtube.com/watch?v=A2jBiDf7WuQ)
 
 * **29/05/2020** - [Henrique Bastos](https://www.linkedin.com/in/henriquebastos/): [Como escapar do Vale das Sombras do Mercado de TI](https://www.youtube.com/watch?v=gyZWSeMnp54)
 
