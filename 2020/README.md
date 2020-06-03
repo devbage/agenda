@@ -2,6 +2,10 @@
 
 * **30/06/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): [A jornada do desenvolvedor](https://www.youtube.com/watch?v=pofPBW65SVo)
 
+* **26/06/2020** - Não definido
+
+* **19/06/2020** - Não definido
+
 * **08/06/2020** - [Karin Keller](https://www.linkedin.com/in/karinkeller/): Em breve...
 
 * **05/06/2020** - [Fernando Ike](https://www.linkedin.com/in/fernandoike/): [DevOps é Cultura ou Ferramenta?](https://www.youtube.com/watch?v=A2jBiDf7WuQ)
