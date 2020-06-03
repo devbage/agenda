@@ -6,7 +6,7 @@
 
 * **19/06/2020** - Não definido
 
-* **08/06/2020** - [Karin Keller](https://www.linkedin.com/in/karinkeller/): Em breve...
+* **08/06/2020** - [Karin Keller](https://www.linkedin.com/in/karinkeller/): [Empreender em tempos de crise, propósito e ferramentas](https://www.youtube.com/watch?v=FZNR_k7S2hY)
 
 * **05/06/2020** - [Fernando Ike](https://www.linkedin.com/in/fernandoike/): [DevOps é Cultura ou Ferramenta?](https://www.youtube.com/watch?v=A2jBiDf7WuQ)
 
