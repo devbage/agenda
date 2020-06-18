@@ -1,5 +1,7 @@
 ## Lives Youtube 2020
 
+* **10/07/2020** - [Robson Inácio](https://www.linkedin.com/in/robsoninacio/): Em breve ...
+
 * **30/06/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): [A jornada do desenvolvedor](https://www.youtube.com/watch?v=pofPBW65SVo)
 
 * **26/06/2020** - [Álvaro Justen (Turicas)](https://www.linkedin.com/in/alvarojusten/): Em breve ...
