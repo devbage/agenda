@@ -4,7 +4,7 @@
 
 * **30/06/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): [A jornada do desenvolvedor](https://www.youtube.com/watch?v=pofPBW65SVo)
 
-* **26/06/2020** - [Álvaro Justen (Turicas)](https://www.linkedin.com/in/alvarojusten/): Em breve ...
+* **26/06/2020** - Não definido
 
 * **19/06/2020** - Não definido
 
