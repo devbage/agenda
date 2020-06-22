@@ -4,9 +4,7 @@
 
 * **30/06/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): [A jornada do desenvolvedor](https://www.youtube.com/watch?v=pofPBW65SVo)
 
-* **26/06/2020** - Não definido
-
-* **19/06/2020** - Não definido
+* **25/06/2020** - [Sebastian Webber](https://www.linkedin.com/in/sebawebber/): [Infraestrutura como Código - IaC](https://www.youtube.com/watch?v=jI2LkApP308)
 
 * **08/06/2020** - [Karin Keller](https://www.linkedin.com/in/karinkeller/): [Empreender em tempos de crise, propósito e ferramentas](https://www.youtube.com/watch?v=FZNR_k7S2hY)
 
