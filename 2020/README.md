@@ -2,7 +2,7 @@
 
 * **10/07/2020** - [Robson Inácio](https://www.linkedin.com/in/robsoninacio/): Em breve ...
 
-* **30/06/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): [A jornada do desenvolvedor](https://www.youtube.com/watch?v=pofPBW65SVo)
+* **30/06/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): **CANCELADA**
 
 * **25/06/2020** - [Sebastian Webber](https://www.linkedin.com/in/sebawebber/): [Infraestrutura como Código - IaC](https://www.youtube.com/watch?v=jI2LkApP308)
 
