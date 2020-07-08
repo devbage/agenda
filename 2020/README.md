@@ -1,6 +1,6 @@
 ## Lives Youtube 2020
 
-* **10/07/2020** - [Elemar Jr](https://www.linkedin.com/in/elemarjr/): **Em breve**
+* **17/07/2020** - [Elemar Jr](https://www.linkedin.com/in/elemarjr/): **Em breve**
 
 * **10/07/2020** - [Robson Inácio](https://www.linkedin.com/in/robsoninacio/): **CANCELADA**
 
