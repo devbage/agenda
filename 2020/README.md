@@ -2,7 +2,7 @@
 
 * **17/07/2020** - [Elemar Jr](https://www.linkedin.com/in/elemarjr/): **Em breve**
 
-* **10/07/2020** - [Robson Inácio](https://www.linkedin.com/in/robsoninacio/): **CANCELADA**
+* **10/07/2020** - [Alex Camargo](https://predictcovid.com.br/): [IA versus COVID-19](https://www.youtube.com/watch?v=l2C321iGSzE)
 
 * **30/06/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): **CANCELADA**
 
