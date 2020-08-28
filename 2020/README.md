@@ -1,6 +1,6 @@
 ## Lives Youtube 2020
 
-* **17/07/2020** - [Elemar Jr](https://www.linkedin.com/in/elemarjr/): **Em breve**
+* **17/07/2020** - [Elemar Jr](https://www.linkedin.com/in/elemarjr/): [Programador Junior, Pleno e Sênior: Quais as diferenças? O que fazer para avançar?](https://youtu.be/Euv3lw2x1qY)
 
 * **10/07/2020** - [Alex Camargo](https://predictcovid.com.br/): [IA versus COVID-19](https://www.youtube.com/watch?v=l2C321iGSzE)
 
