@@ -1,6 +1,8 @@
 ## Lives Youtube 2020
 
-* **31/08/2020** - [Douglas Dennys Alves de Oliveira](https://www.linkedin.com/in/douglas-dennys-381629119/): [Hands on with Golang]
+* **24/09/2020** - [Rodrigo Branas](https://linkedin.com/in/rodrigobranas): [Do front ao back, uma abordagem em JS](https://www.youtube.com/watch?v=jrb_1rBDBIQ)
+
+* **31/08/2020** - [Douglas Dennys Alves de Oliveira](https://www.linkedin.com/in/douglas-dennys-381629119/): [Hands on with Golang](https://www.youtube.com/watch?v=4qBMNhentLA)
 
 * **17/07/2020** - [Elemar Jr](https://www.linkedin.com/in/elemarjr/): [Programador Junior, Pleno e Sênior: Quais as diferenças? O que fazer para avançar?](https://youtu.be/Euv3lw2x1qY)
 
