@@ -1,5 +1,7 @@
 ## Lives Youtube 2020
 
+* **09/10/2020** - [Breno Mazieiro](https://www.linkedin.com/in/breno-mazieiro): [O GodStack, brasileiro sabe desenvolver software?](https://www.youtube.com/watch?v=memHS2ChHFA)
+
 * **24/09/2020** - [Rodrigo Branas](https://linkedin.com/in/rodrigobranas): [Do front ao back, uma abordagem em JS](https://www.youtube.com/watch?v=jrb_1rBDBIQ)
 
 * **31/08/2020** - [Douglas Dennys Alves de Oliveira](https://www.linkedin.com/in/douglas-dennys-381629119/): [Hands on with Golang](https://www.youtube.com/watch?v=4qBMNhentLA)
