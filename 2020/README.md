@@ -1,5 +1,7 @@
 ## Lives Youtube 2020
 
+* **22/10/2020** - [Elton Minetto](https://www.linkedin.com/in/eminetto/): [A jornada do desenvolvedor](https://www.youtube.com/watch?v=PAu9yqo2y54)
+
 * **09/10/2020** - [Breno Mazieiro](https://www.linkedin.com/in/breno-mazieiro): [O GodStack, brasileiro sabe desenvolver software?](https://www.youtube.com/watch?v=memHS2ChHFA)
 
 * **24/09/2020** - [Rodrigo Branas](https://linkedin.com/in/rodrigobranas): [Do front ao back, uma abordagem em JS](https://www.youtube.com/watch?v=jrb_1rBDBIQ)
