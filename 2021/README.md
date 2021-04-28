@@ -2,7 +2,7 @@
 
 * **20/04/2021** - [Deivid Willyan](https://www.linkedin.com/in/deivid-willyan-19776abb/): [Aplicações multiplataforma com Flutter](https://www.youtube.com/watch?v=5IY222WbF4M)
 
-* **30/04/2021** - [Rafaela Sampaio](https://www.linkedin.com/in/rafaelagsampaio/): TBD
+* **30/04/2021** - [Rafaela Sampaio](https://www.linkedin.com/in/rafaelagsampaio/): **CANCELADA**
 
 * **13/05/2021** - [Juliana Onofrio](https://www.linkedin.com/in/julianaonofrio/): TBD
 
