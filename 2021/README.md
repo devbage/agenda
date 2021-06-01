@@ -8,4 +8,4 @@
  
 * **28/05/2021** - [Evandro Pires da Silva](https://www.linkedin.com/in/epiresdasilva/): TBD
 
-* **04/06/2021 19:00h** - [Camila Amaral](https://www.linkedin.com/in/camila-shiguematsu/) & [Gabriel Marote](https://www.linkedin.com/in/gamarote/): Clojure for the Brave and truth
+* **18/06/2021 19:00h** - [Camila Amaral](https://www.linkedin.com/in/camila-shiguematsu/) & [Gabriel Marote](https://www.linkedin.com/in/gamarote/): Clojure for the Brave and truth
